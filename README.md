@@ -18,9 +18,9 @@
 </div>
 
 ### 🎓 Education
-- High School Diploma (2008)
-- Computer Information Systems, AA (2019)
-- Cybersecurity, Information Security, BASc (2022)
+- High School Diploma
+- [Computer Information Systems](https://pensacolastate.smartcatalogiq.com/2018-2019/Catalog/Academic-Programs/Associate-in-Arts-Program/Associate-in-Arts-Programs-of-Study/Computer-Information-Systems-Advising-Track), AA (2018-2019)
+- [Cybersecurity, Information Security](https://pensacolastate.smartcatalogiq.com/2020-2021/Catalog/Programs-of-Study/Baccalaureate-Degrees/Baccalaureate-Degree-Programs/BAS-Cybersecurity), BASc (2020-2022)
 
 ### 💼 Licenses
 - Florida Class E Standard Driver's License (exp 2027)
