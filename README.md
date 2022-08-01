@@ -85,18 +85,24 @@ I've deleted some of my old profiles & created new ones to start from scratch, s
 ### ⚡ Fun facts:
 - I am great a cryptography, but due to dyscalculia I have trouble with maths. As a result, I compensate with recognizing pattern, which made me a very talented, accidental, unofficial OSINT investigator.
 - I love taking things apart, finding out how they work, changing how they work, and repairing or improving them in ways for which they were not originally designed. As a result, I generally can look at something and know how to assemble or disassemble it with ease. I will still use instructions or guides, but it is rare that I need them.
+</div>
+
+<div align="center">
 
 ### 🤝 Professional Affiliations
-<div>
-  <img src="https://scontent-atl3-1.xx.fbcdn.net/v/t1.6435-9/69058936_482861418945203_3076606265216991232_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=tR_SPjgAZYwAX80fRGy&tn=qQJ7My6ER6c3jkRy&_nc_ht=scontent-atl3-1.xx&oh=00_AT9mRcIKAYOXwDqqf8P0lZin34lFZXzFvdr1HrbIY_5Jlg&oe=630E564A" width="50" height="50"/>&nbsp;
-  <img src="https://scontent-atl3-1.xx.fbcdn.net/v/t1.18169-9/13413757_10154248266969137_743182252710343124_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=kaqZFFH28cgAX-uuC6s&_nc_ht=scontent-atl3-1.xx&oh=00_AT-z0qyxjGoPEdzbsG7LQMpVqB3kos5U3HFnE66HDBRuww&oe=630BBC47" width="50" height="50"/>&nbsp;
-  <img src="https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/269386094_125380009952295_2251827549635529207_n.png?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=7ulm-O1BtUoAX-f6zn-&_nc_ht=scontent-atl3-1.xx&oh=00_AT_VKwLvxKFZXjg8FSZs5xEGyjz8MaU_9b6ta1VFfMfCJg&oe=62ECFF2D" width="50" height="50"/>&nbsp;
-  <img src="https://www.brighttalk.com/wp-content/uploads/2019/07/ISSA-icon.png" width="50" height="50"/>&nbsp;
-  <img src="https://countdowntoveteransday.info/images/logos/NDIA_seal.jpg" width="50" height="50"/>&nbsp;
-  <img src="https://fweda-75c5.kxcdn.com/wp-content/uploads/2022/03/AFCEA-Blue-Angels-LOGO-Good-223x300.png" width="50" height="50"/>&nbsp;
-  <img src="https://scontent-atl3-1.xx.fbcdn.net/v/t1.18169-9/307375_351645314944994_217829006_n.png?_nc_cat=104&ccb=1-7&_nc_sid=e3f864&_nc_ohc=lPCqAmv1rDsAX_5HLIO&tn=qQJ7My6ER6c3jkRy&_nc_ht=scontent-atl3-1.xx&oh=00_AT_fGZmUP9XS7Q9wL5dza-FqqMuGpR3yFWyfV_1HMSLZqw&oe=630B6422" width="50" height="50"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Society_of_Women_Engineers_logo.svg/1200px-Society_of_Women_Engineers_logo.svg.png" width="50" height="50"/>&nbsp;
-  <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1499839703/hmhusxn7z5m1nqjgjlet.png" width="50" height="50"/>&nbsp;
-  <img src="https://mlsvc01-prod.s3.amazonaws.com/6b88b23a201/97a4950f-7db5-45f7-bf44-b3b7675b97a5.png?ver=1547501129000" width="50" height="50"/>&nbsp;
-<img src="https://www.ndia.org/-/media/sites/ndia/about/2022_affiliate_logos_print_only.ashx"/>&nbsp;
+
 </div>
+
+<div align="center">
+  <a href="https://www.pensacolastate.edu/academics/robinson-honors-program/"><img src="https://scontent-atl3-1.xx.fbcdn.net/v/t1.6435-9/69058936_482861418945203_3076606265216991232_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=tR_SPjgAZYwAX80fRGy&tn=qQJ7My6ER6c3jkRy&_nc_ht=scontent-atl3-1.xx&oh=00_AT9mRcIKAYOXwDqqf8P0lZin34lFZXzFvdr1HrbIY_5Jlg&oe=630E564A" width="50" height="50"/>&nbsp;</a>
+  <a href="https://www.comptia.org/membership"><img src="https://scontent-atl3-1.xx.fbcdn.net/v/t1.18169-9/13413757_10154248266969137_743182252710343124_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=kaqZFFH28cgAX-uuC6s&_nc_ht=scontent-atl3-1.xx&oh=00_AT-z0qyxjGoPEdzbsG7LQMpVqB3kos5U3HFnE66HDBRuww&oe=630BBC47" width="50" height="50"/>&nbsp;</a>
+  <a href="https://www.wicysmilitary.org/"><img src="https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/269386094_125380009952295_2251827549635529207_n.png?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=7ulm-O1BtUoAX-f6zn-&_nc_ht=scontent-atl3-1.xx&oh=00_AT_VKwLvxKFZXjg8FSZs5xEGyjz8MaU_9b6ta1VFfMfCJg&oe=62ECFF2D" width="50" height="50"/>&nbsp;</a>
+  <a href="https://www.issa.org/?fbclid=IwAR0u-uLN4q5K6S9udjjQHVREsP5sbEu6kk4-TPQ9MGpEuYvuLBwquIqCJBY"><img src="https://www.brighttalk.com/wp-content/uploads/2019/07/ISSA-icon.png" width="50" height="50"/>&nbsp;</a>
+  <a href="https://www.ndia.org/"><img src="https://countdowntoveteransday.info/images/logos/NDIA_seal.jpg" width="50" height="50"/>&nbsp;</a>
+  <a href="https://pensacola.afceachapters.org/"><img src="https://fweda-75c5.kxcdn.com/wp-content/uploads/2022/03/AFCEA-Blue-Angels-LOGO-Good-223x300.png" width="50" height="50"/>&nbsp;</a>
+  <a href="https://engage.isaca.org/tallahasseechapter/home"><img src="https://scontent-atl3-1.xx.fbcdn.net/v/t1.18169-9/307375_351645314944994_217829006_n.png?_nc_cat=104&ccb=1-7&_nc_sid=e3f864&_nc_ohc=lPCqAmv1rDsAX_5HLIO&tn=qQJ7My6ER6c3jkRy&_nc_ht=scontent-atl3-1.xx&oh=00_AT_fGZmUP9XS7Q9wL5dza-FqqMuGpR3yFWyfV_1HMSLZqw&oe=630B6422" width="50" height="50"/>&nbsp;</a>
+  <a href="https://swe.org/"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Society_of_Women_Engineers_logo.svg/1200px-Society_of_Women_Engineers_logo.svg.png" width="50" height="50"/>&nbsp;</a>
+  <a href="https://womenscyberjutsu.org/default.aspx"><img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1499839703/hmhusxn7z5m1nqjgjlet.png" width="50" height="50"/>&nbsp;</a>
+  <a href="https://engage.isaca.org/tallahasseechapter/sheleadstech"><img src="https://mlsvc01-prod.s3.amazonaws.com/6b88b23a201/97a4950f-7db5-45f7-bf44-b3b7675b97a5.png?ver=1547501129000" width="50" height="50"/>&nbsp;</a>
+  <a href="https://www.ndia.org/about/affiliates"><img src="https://www.ndia.org/-/media/sites/ndia/about/2022_affiliate_logos_print_only.ashx"/>&nbsp;
+</div></a>
