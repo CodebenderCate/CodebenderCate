@@ -39,8 +39,8 @@
 ### 💻 Operating Systems:
 - Linux: Android, Kali, Debian, Ubuntu, Gentoo, Fedora, Red Hat
 - Microsoft: 95, 98, ME, 2000, ME, XP, XP Dark, Vista, 8, 10 (Home, Pro, Ent)
-- Apple: None
 - Other: Cisco, EyesofNetwork
+
 
 ### ⌨ Programming Languages and Software
 I'm working on this, there isn't much here yet
