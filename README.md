@@ -40,7 +40,7 @@
 - Linux: Android, Kali, Debian, Ubuntu, Gentoo, Fedora, Red Hat
 - Microsoft: 95, 98, ME, 2000, ME, XP, XP Dark, Vista, 8, 10 (Home, Pro, Ent)
 - Other: Cisco, EyesofNetwork
-
+- I don't like Apple products but they're on the list to learn anyway.
 
 ### ⌨ Programming Languages and Software
 I'm working on this, there isn't much here yet
