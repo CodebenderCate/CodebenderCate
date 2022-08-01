@@ -11,6 +11,7 @@
   </a>
 <a href="https://discord.gg/24GeESzzrx"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
 <a href="https://twitter.com/Codebender_Cate" ><img src="https://img.shields.io/twitter/follow/Codebender_Cate.svg?style=social" /></a>
+<a href="https://instagram.com/Codebender.Cate" ><img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=E4405F&style=social"/></a>
   <br></br>
   <font size="+2">
   <b>🖖 "Logic is the cement of our civilization, with which we ascend from chaos, using reason as our guide"🖖</b>
