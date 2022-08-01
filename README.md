@@ -76,7 +76,6 @@ I've deleted some of my old profiles & created new ones to start from scratch, s
 - Please see my [Information](https://github.com/CodebenderCate/Cybersecurity-Information) repo for more details
 - I am working on updating my [write-ups](https://github.com/CodebenderCate/Write-Ups)
 
-
 ### 💬 Ask me about
 - My giant, fluffy, Maine Coon [Cats](https://www.instagram.com/shadow.and.kira/)
 
