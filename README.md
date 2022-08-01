@@ -40,10 +40,11 @@
 - Linux: Android, Kali, Debian, Ubuntu, Gentoo, Fedora, Red Hat
 - Microsoft: 95, 98, ME, 2000, ME, XP, XP Dark, Vista, 8, 10 (Home, Pro, Ent)
 - Apple: None
+- Other: Cisco, EyesofNetwork
 
 ### ⌨ Programming Languages and Software
 I'm working on this, there isn't much here yet
-- Software: Visual Studio, Netbeans, Adobe Creative Suite, Microsoft Office 365
+- Software: Visual Studio, Netbeans, Adobe Creative Suite, Microsoft Office 365, VMWare, VirtualBox,
 - Languages: HTML, PHP, Java, Javascript, Python, CScript
 - [Tools](https://github.com/CodebenderCate/CIA-Hacking-Tools)
 
@@ -71,13 +72,10 @@ I've deleted some of my old profiles & created new ones to start from scratch, s
 - Binary Exploitation
 - NCL Code Mug
 
-### I frequently participate in:
-Please see my [Information](https://github.com/CodebenderCate/Cybersecurity-Information) repo for more details
-I am working on updating my [write-ups](https://github.com/CodebenderCate/Write-Ups)
-- [NSA Codebreaker Challenge](https://nsa-codebreaker.org/home)
-- [Cyber Skyline](https://cyberskyline.com/hosted_events)
-- [US Cyber Challenge CyberQuest](https://uscc.cyberquests.org/)
-- [Google CTF](https://capturetheflag.withgoogle.com/)
+### 🏆 Competitions I frequent:
+- Please see my [Information](https://github.com/CodebenderCate/Cybersecurity-Information) repo for more details
+- I am working on updating my [write-ups](https://github.com/CodebenderCate/Write-Ups)
+
 
 ### 💬 Ask me about
 - My giant, fluffy, Maine Coon [Cats](https://www.instagram.com/shadow.and.kira/)
