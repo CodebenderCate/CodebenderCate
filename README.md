@@ -11,8 +11,10 @@
   </a>
 <a href="https://discord.gg/24GeESzzrx"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
 <a href="https://twitter.com/Codebender_Cate" ><img src="https://img.shields.io/twitter/follow/Codebender_Cate.svg?style=social" /></a>
-  <br>
-  <b>🖖 "Logic is the cement of our civilization, with which we ascend from chaos, using reason as our guide"  🖖</b>
+  <br></br>
+  <font size="+2">
+  <b>🖖 "Logic is the cement of our civilization, with which we ascend from chaos, using reason as our guide"🖖</b>
+  </font>
 </div>
 
 ### 🎓 Education
@@ -33,13 +35,24 @@
 - TestOut [Ethical Hacker Pro](https://certification.testout.com/verifycert?certificateId=6-2C6-LRQPV) Certification (no exp)
 - TestOut [Server Pro 2016: Install and Storage](https://certification.testout.com/verifycert?certificateId=6-2C6-9A29P) Certification (no exp)
 
+### 💻 Operating Systems:
+- Linux: Android, Kali, Debian, Ubuntu, Gentoo, Fedora, Red Hat
+- Microsoft: 95, 98, ME, 2000, ME, XP, XP Dark, Vista, 8, 10 (Home, Pro, Ent)
+- Apple: None
+
+### ⌨ Programming Languages and Software
+I'm working on this, there isn't much here yet
+- Software: Visual Studio, Netbeans, Adobe Creative Suite, Microsoft Office 365
+- Languages: HTML, PHP, Java, Javascript, Python, CScript
+- [Tools](https://github.com/CodebenderCate/CIA-Hacking-Tools)
+
 ### 🔭 I’m currently working on
 - CompTIA [Security+ SY0-601](https://www.comptia.org/certifications/security) Certification, paid for by the [Aspiring Tech Pro/Rising Star Scholarship](https://www.comptia.org/newsroom/2021/04/23/comptia-opens-new-round-of-aspiring-tech-pro-scholarship-awards-announces-most-recent-winners) held in escrow
 - Juniper Certify [JNCIA-SP](https://www.juniper.net/us/en/training/certification/tracks/service-provider-routing-switching/jncis-sp.html) Certification using the exam voucher I won on [Twitter](https://twitter.com/JBizzle703/status/1539744190258708480)
 - Cisco [CCNA 200-301](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html) Certification using the [2021 Scott Wright Student Essay Contest](ttps://www.nisod.org/2021-student-essay-winner-allison-c-dugas/) prize winnings held in escrow
 
 ### 🌱 I’m currently learning from: 
-(I've deleted some of my old profiles & created new ones to start from scratch, so not all profiles will have a lot of activity)
+I've deleted some of my old profiles & created new ones to start from scratch, so not all profiles will have a lot of activity
 - [Codecademy](https://www.codecademy.com/profiles/Codebender_Cate)
 - [Hack The Box](https://app.hackthebox.com/profile/overview)
 - [CyberStart](https://play.cyberstart.com/)
@@ -58,8 +71,10 @@
 - NCL Code Mug
 
 ### I frequently participate in:
+Please see my [Information](https://github.com/CodebenderCate/Cybersecurity-Information) repo for more details
+I am working on updating my [write-ups](https://github.com/CodebenderCate/Write-Ups)
 - [NSA Codebreaker Challenge](https://nsa-codebreaker.org/home)
-- Anything from [Cyber Skyline](https://cyberskyline.com/hosted_events)
+- [Cyber Skyline](https://cyberskyline.com/hosted_events)
 - [US Cyber Challenge CyberQuest](https://uscc.cyberquests.org/)
 - [Google CTF](https://capturetheflag.withgoogle.com/)
 
