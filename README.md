@@ -30,11 +30,11 @@
 ### 🇺🇸 Military
 - United States Army, 779th Engineering Battalion, 83rd Troop Command, 144th Transportation Company, Marianna, Florida
 - Initially enlisted as 91W Medic, I agreed to switch to 88M Motor Transport Operator to be assigned to a unit closer to my family.
-- Used all earnings to assist in my sister's medical expenses relating to her kidney transplant at 20 years old.
+- Discharged July 26, 2007, following injuries received while on duty. 
+- Served 1yr 6mos of my 8yr contract.
 - Qualified: M16A2, M249, M240B, M203, M1919, Grenade Throw, Rifle-Bayonet, Pugils, Hand-to-Hand
 - Obtained college credit for US Army Transcripts
-- Discharged July 26, 2007, following injuries while on duty. 
-- Served 1yr 6mos of my 8yr contract.
+- Used all earnings to assist in my sister's medical expenses relating to her kidney transplant.
 
 ### 🛡️ Certifications
 - [Department of Defense](https://drive.google.com/file/d/1vgnqVdJlp7XuiaKFnZN4n1_23zf2hq4G/view?usp=drivesdk) Cybersecurity Awareness 2022 (no exp)
