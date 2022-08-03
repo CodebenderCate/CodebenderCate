@@ -27,7 +27,17 @@
 - Florida Class E Standard Driver's License (exp 2027)
 - Florida [Class D](https://licensing.freshfromflorida.com/access/individual.aspx?TYPE=INDIVIDUAL&CATEGORY=D%20&COUNTY=09&LICENSE=D%201829380&STATUS=IND_DETAIL) Unarmed Security Officer License (exp 03May2023)
 
+### 🇺🇸 Military
+- United States Army, 779th Engineering Battalion, 83rd Troop Command, 144th Transportation Company, Marianna, Florida
+- Initially enlisted as 91W Medic, I agreed to switch to 88M Motor Transport Operator to be assigned to a unit closer to my family.
+- Used all earnings to assist in my sister's medical expenses relating to her kidney transplant at 20 years old.
+- Qualified: M16A2, M249, M240B, M203, M1919, Grenade Throw, Rifle-Bayonet, Pugils, Hand-to-Hand
+- Obtained college credit for US Army Transcripts
+- Discharged July 26, 2007, following injuries while on duty. 
+- Served 1yr 6mos of my 8yr contract.
+
 ### 🛡️ Certifications
+- [Department of Defense](https://drive.google.com/file/d/1vgnqVdJlp7XuiaKFnZN4n1_23zf2hq4G/view?usp=drivesdk) Cybersecurity Awareness 2022 (no exp)
 - [C)DRE](https://drive.google.com/file/d/1q4SJhJxGPgoTHJmcXNeK-Skjn7QshvXe/view): Certified Disaster Recovery Engineer (exp 06Dec2023)
 - [C)ISSO](https://drive.google.com/file/d/1Z4lmvVrABiW3DgxazZX7M4DJzorUqEQU/view): Certified Information Systems Security Officer (exp 30Jul2024)
 - [C)SA1](https://drive.google.com/file/d/1PoYAVuy9x_3r3ubw7jWCRP4ubokIpBTn/view): Certified Security Awareness 1 (exp 30Jul2024)
