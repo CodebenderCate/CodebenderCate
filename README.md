@@ -61,7 +61,7 @@ I'm working on this, there isn't much here yet
 ### 🔭 I’m currently working on
 - CompTIA [Security+ SY0-601](https://www.comptia.org/certifications/security) Certification, paid for by the [Aspiring Tech Pro/Rising Star Scholarship](https://www.comptia.org/newsroom/2021/04/23/comptia-opens-new-round-of-aspiring-tech-pro-scholarship-awards-announces-most-recent-winners) held in escrow
 - Juniper Certify [JNCIA-SP](https://www.juniper.net/us/en/training/certification/tracks/service-provider-routing-switching/jncis-sp.html) Certification using the exam voucher I won on [Twitter](https://twitter.com/JBizzle703/status/1539744190258708480)
-- Cisco [CCNA 200-301](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html) Certification using the [2021 Scott Wright Student Essay Contest](ttps://www.nisod.org/2021-student-essay-winner-allison-c-dugas/) prize winnings held in escrow
+- Cisco [CCNA 200-301](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html) Certification using the [2021 Scott Wright Student Essay Contest](https://www.nisod.org/2021-student-essay-winner-allison-c-dugas/) prize winnings held in escrow
 
 ### 🌱 I’m currently learning from: 
 I've deleted some of my old profiles & created new ones to start from scratch, so not all profiles will have a lot of activity
