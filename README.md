@@ -20,9 +20,9 @@
 
 ### 🎓 Education
 - High School Diploma
-- [Computer Information Systems](https://pensacolastate.smartcatalogiq.com/2018-2019/Catalog/Academic-Programs/Associate-in-Arts-Program/Associate-in-Arts-Programs-of-Study/Computer-Information-Systems-Advising-Track), AA (Oct 2018- Dec 2019)
-- [Cybersecurity, Information Security](https://pensacolastate.smartcatalogiq.com/2020-2021/Catalog/Programs-of-Study/Baccalaureate-Degrees/Baccalaureate-Degree-Programs/BAS-Cybersecurity), BASc (Jan 2020 - May 2022)
-- [Robinson Honors Program](https://www.pensacolastate.edu/academics/robinson-honors-program/#1481128925354-ee53bc35-da57), (2022)
+- [Computer Information Systems](https://pensacolastate.smartcatalogiq.com/2018-2019/Catalog/Academic-Programs/Associate-in-Arts-Program/Associate-in-Arts-Programs-of-Study/Computer-Information-Systems-Advising-Track), AA (12/2019)
+- [Cybersecurity, Information Security](https://pensacolastate.smartcatalogiq.com/2020-2021/Catalog/Programs-of-Study/Baccalaureate-Degrees/Baccalaureate-Degree-Programs/BAS-Cybersecurity), BASc (05/2022)
+- [Robinson Honors Program](https://www.pensacolastate.edu/academics/robinson-honors-program/#1481128925354-ee53bc35-da57), Cybersecurity (05/2022)
 
 ### 💼 Licenses
 - Florida Class E Standard Driver's License (exp 2027)
