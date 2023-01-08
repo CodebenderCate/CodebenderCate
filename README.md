@@ -100,8 +100,8 @@ I've deleted some of my old profiles & created new ones to start from scratch, s
 
 <div align="center">
 
-### 🤝 Professional Affiliations and Memberships 🤝
-
+## 🤝 Professional Affiliations and Memberships 🤝
+<br></br>
 </div>
 
 <div align="center">
