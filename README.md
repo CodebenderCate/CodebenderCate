@@ -91,7 +91,7 @@ I've deleted some of my old profiles & created new ones to start from scratch, s
 - My giant, fluffy, Maine Coon [Cats](https://www.instagram.com/shadow.and.kira/)
 
 ### 😄 Pronouns:
-- I don't care what you call me, as long as you don't insult my Mother
+- I don't care what you call me, just don't insult my Mother
 
 ### ⚡ Fun facts:
 - I am great a cryptography, but due to dyscalculia I have trouble with maths. As a result, I compensate with recognizing pattern, which made me a very talented, accidental, unofficial OSINT investigator.
