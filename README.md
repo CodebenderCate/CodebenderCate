@@ -27,7 +27,7 @@
 - Florida Class E Standard Driver's License (exp 2027)
 - Florida [Class D](https://licensing.freshfromflorida.com/access/individual.aspx?TYPE=INDIVIDUAL&CATEGORY=D%20&COUNTY=09&LICENSE=D%201829380&STATUS=IND_DETAIL) Unarmed Security Officer License (exp 03May2023)
 
-### US Military
+### 💂‍ Military
 - United States Army, 779th Engineering Battalion, 83rd Troop Command, 144th Transportation Company, Marianna, Florida
 - Initially enlisted as 91W Medic, I agreed to switch to 88M Motor Transport Operator to be assigned to a unit closer to my family.
 - Discharged July 26, 2007, following injuries received while on duty. 
