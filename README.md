@@ -104,9 +104,10 @@ I've deleted some of my old profiles & created new ones to start from scratch, s
 </div>
 
 <div align="center">
-  <a href="https://www.pensacolastate.edu/academics/robinson-honors-program/"><img src="[https://www.pensacolastate.edu/wp-content/uploads/2022/06/robinson-honors.jpg]" width="55" height="55"/>&nbsp;</a>
-  <a href="https://www.comptia.org/membership"><img src="[https://comptiacdn.azureedge.net/webcontent/images/default-source/mainsitetemplateimages/comptia_logo_white.png?sfvrsn=df1edab8_2]" width="55" height="55"/>&nbsp;</a>
-  <a href="https://www.wicysmilitary.org/"><img src="[https://pbs.twimg.com/profile_images/1472294524953235460/FeZEXYqQ_400x400.png]" width="50" height="50"/>&nbsp;</a>
+  <a href="https://www.pensacolastate.edu/academics/robinson-honors-program/"><img src="https://www.pensacolastate.edu/wp-content/uploads/2022/06/robinson-honors.jpg" width="55" height="55"/>&nbsp;</a>
+  <a href="https://www.comptia.org/membership"><img src="https://comptiacdn.azureedge.net/webcontent/images/default-source/mainsitetemplateimages/comptia_logo_white.png?sfvrsn=df1edab8_2" idth="55" height="55"/>&nbsp;</a>
+  <a href="https://www.wicysmilitary.org/"><img src="https://pbs.twimg.com/profile_images/1472294524953235460/FeZEXYqQ_400x400.png" width="50" height="50"/>&nbsp;</a>
+  
   <a href="https://www.issa.org/?fbclid=IwAR0u-uLN4q5K6S9udjjQHVREsP5sbEu6kk4-TPQ9MGpEuYvuLBwquIqCJBY"><img src="https://www.brighttalk.com/wp-content/uploads/2019/07/ISSA-icon.png" width="50" height="50"/>&nbsp;</a>
   <a href="https://pensacola.afceachapters.org/"><img src="https://fweda-75c5.kxcdn.com/wp-content/uploads/2022/03/AFCEA-Blue-Angels-LOGO-Good-223x300.png" width="55" height="55"/>&nbsp;</a>
   <a href="https://swe.org/"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Society_of_Women_Engineers_logo.svg/1200px-Society_of_Women_Engineers_logo.svg.png" width="65" height="50"/>&nbsp;</a>
